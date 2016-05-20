@@ -150,6 +150,9 @@ public class FortuneOres {
 
         // Factorization
         addOre("DarkIron", 1, 5, 0.4f);
+        
+        // Mariculture
+        addOre("Rutile", 1, 1, 1.2f);
     }
     
     private void addOreDicting()
