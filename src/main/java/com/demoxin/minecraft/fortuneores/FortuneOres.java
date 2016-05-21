@@ -152,7 +152,7 @@ public class FortuneOres {
         addOre("DarkIron", 1, 5, 0.4f);
         
         // Mariculture
-        addOre("Rutile", 1, 1, 1.2f);
+        addOre("Titanium", 1, 1, 0.9f);
     }
     
     private void addOreDicting()
